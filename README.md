@@ -3,7 +3,7 @@
 
 
 
-https://user-images.githubusercontent.com/67642255/177542082-cfd51418-daab-46c7-b149-40923ff031cc.mp4
+https://user-images.githubusercontent.com/67642255/177543164-68eeb30a-159b-4d63-95d1-8cbff1df4f59.mp4
 
 
 # Section-1: Prepairing the model
