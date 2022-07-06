@@ -4,7 +4,10 @@ This is a task for learning how to do a node classification in PyTorch.
 This dataset is a social network that shows the relations of the members of a karate club. After a conflict between the administrator and the instructor of the club, the members separated into two communities. One community is labeled by the instructor and the other one by the administrator. This task shows how the structure of the graph of members can be used to predict their final choice of the communities. 
 
 
-https://user-images.githubusercontent.com/67642255/177543164-68eeb30a-159b-4d63-95d1-8cbff1df4f59.mp4
+
+
+
+https://user-images.githubusercontent.com/67642255/177558340-f465c9e4-cf7d-4f31-a8d7-5a25c4ef1e23.mp4
 
 
 # Section-1: Preparing the model
